@@ -241,6 +241,14 @@
       "pack": []
     },
     {
+      "vname": "Goguardian",
+      "format": "wildcard",
+      "group": "privacy",
+      "subg": "services",
+      "url": "https://raw.githubusercontent.com/Nimityx/block-goguardian/main/0.0.0.0/hosts"
+      "pack": []
+    },
+    {
       "vname": "Imgur",
       "format": "wildcard",
       "group": "parentalcontrol",
